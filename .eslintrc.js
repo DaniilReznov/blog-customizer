@@ -39,5 +39,6 @@ module.exports = {
 		'react-hooks/exhaustive-deps': 'off',
 		'import/no-named-as-default': 'off',
 		'@typescript-eslint/no-empty-function': 'off',
+    'end-of-line': 'off',
 	},
 };
