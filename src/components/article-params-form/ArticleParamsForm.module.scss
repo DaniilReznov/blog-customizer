@@ -16,6 +16,8 @@
 	transform: translate(0);
 }
 
+// при смене ветки файл откатился и слетел гап, извиняюсь
+
 .form {
 	display: flex;
 	flex-shrink: 0;
@@ -28,6 +30,7 @@
 	background-color: #ffffff;
 	border-right: 1px solid #000000;
   overflow: auto;
+  gap: 50px;
 }
 
 .form::-webkit-scrollbar {
